@@ -5,7 +5,6 @@
 # python3 filterwordlist.py top-trillion-usernames.txt -r "[Rr].*" -o result.txt
 
 import argparse
-import sys
 import re
 
 
