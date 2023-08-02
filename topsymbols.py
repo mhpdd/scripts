@@ -26,7 +26,6 @@ out_file = args.output
 with_count = args.count
 encoding = args.encoding
 
-print(encoding)
 
 def get_symbols_with_count():
     symbols_count = dict()
